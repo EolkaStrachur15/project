@@ -183,6 +183,9 @@ body {
     text-decoration: none;
     color: rgb(27, 24, 24);
 }
+.button{
+    color: #black;
+}
     /*section 2*/
 .about {
     background-image: url('img/bg/2nd_bg.jpg');
