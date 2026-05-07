@@ -31,7 +31,7 @@ body {
     justify-content: center;
     align-items: center;
 
-    background: rgba(0, 0, 0, 0.7); /* dark glass */
+    background: rgba(0, 0, 0, 0.7);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
 
