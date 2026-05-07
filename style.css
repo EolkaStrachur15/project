@@ -172,17 +172,17 @@ body {
 .btn1 {
     background-color: cyan;
     border-color: cyan;
-    box-shadow: 0 0 20px rgb(45, 192, 192);
+    box-shadow: 0 0 20px rgb(57, 66, 66);
 }
+
     .btn:hover {
     background-color: transparent;
     color: cyan;
     }
-    .btn2:hover {
-    background-color: cyan; 
-    color: rgb(0, 0, 0);
-    }
-
+.btn1 a{
+    text-decoration: none;
+    color: rgb(27, 24, 24);
+}
     /*section 2*/
 .about {
     background-image: url('img/bg/2nd_bg.jpg');
